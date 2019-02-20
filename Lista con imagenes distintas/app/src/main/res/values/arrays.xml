@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="anima">
+        <item>Aguila</item>
+        <item>Ballena</item>
+        <item>Caballo</item>
+        <item>Canario</item>
+        <item>Delfin</item>
+        <item>Gato</item>
+        <item>Libro</item>
+        <item>Peroo</item>
+        <item>Vaca</item>
+
+
+    </string-array>
+    <string-array name="anima2">
+        <item>Ave Rapaz</item>
+        <item>Mamifero Marino</item>
+        <item>Porte Elegante</item>
+        <item>Canto Espectacular</item>
+        <item>Mamifero Marino</item>
+        <item>Animal domestico por excelencoa</item>
+        <item>Animal mas veloz sobre la tierra</item>
+        <item>Animali domestico por experiencia</item>
+        <item>Animal de granja</item>
+         </string-array>
+
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"   xmlns:tools="schemas.android.com/tools"
+    tools:context="com.example.sample.YourActivity" xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/acerca"
+        android:icon="@drawable/ballena"
+        yourapp:showAsAction="ifRoom"
+        android:title="Acerca de..." />
+    <item android:id="@+id/altas"
+        android:icon="@drawable/ballena"
+        yourapp:showAsAction="ifRoom"
+        android:title="Altas" />
+    <item android:id="@+id/bajas"
+        android:icon="@drawable/ballena"
+        yourapp:showAsAction="ifRoom"
+        android:title="Bajas" />
+
+    <item android:id="@+id/item1" android:icon="@android:drawable/sym_call_incoming" android:title="Acerca de..."
+        yourapp:showAsAction="ifRoom">
+        <menu>
+            <item android:id="@+id/item2"
+                android:icon="@android:drawable/btn_dialog"
+                android:title="Insertar" />
+            <item android:id="@+id/item3"
+                android:icon="@android:drawable/ic_delete"
+                android:title="Eliminar" /> </menu>
+    </item>
+
+</menu>

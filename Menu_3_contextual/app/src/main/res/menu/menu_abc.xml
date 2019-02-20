@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"   xmlns:tools="schemas.android.com/tools"
+    tools:context="com.example.sample.YourActivity" xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/opa"
+        android:icon="@android:drawable/sym_call_incoming"
+        yourapp:showAsAction="ifRoom"
+        android:title="opcion A" />
+    <item android:id="@+id/opb"
+        android:icon="@android:drawable/ic_delete"
+        yourapp:showAsAction="ifRoom"
+        android:title="opcion B" />
+    <item android:id="@+id/opc"
+        android:icon="@android:drawable/btn_dialog"
+        yourapp:showAsAction="ifRoom"
+        android:title="opcion C" />
+
+
+
+</menu>

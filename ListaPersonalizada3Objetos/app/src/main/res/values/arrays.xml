@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombres">
+        <item>Ana</item>
+        <item>Jonathan</item>
+        <item>Dio</item>
+        <item>Danny</item>
+        <item>Speedwagon</item>
+        <item>Zeppeli</item>
+        <item>Joseph</item>
+        <item>Niggy</item>
+        <item>Speedwagon Plus</item>
+        <item>Sekaiichi</item>
+        <item>Santana</item>
+        <item>Shiza</item>
+        <item>Soldado que se muere</item>
+        <item>Wammu</item>
+        <item>ACDC</item>
+        <item>Kars</item>
+        <item>Lisa Lisa</item>
+        <item>Reverb</item>
+        <item>SuzieQ</item>
+        <item>Sans</item>
+    </string-array>
+</resources>

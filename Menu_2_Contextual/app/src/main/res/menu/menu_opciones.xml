@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"   xmlns:tools="schemas.android.com/tools"
+    tools:context="com.example.sample.YourActivity" xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/acerca"
+        android:icon="@android:drawable/sym_call_incoming"
+        yourapp:showAsAction="ifRoom"
+        android:title="Acerca de..." />
+    <item android:id="@+id/altas"
+        android:icon="@android:drawable/ic_delete"
+        yourapp:showAsAction="ifRoom"
+        android:title="Altas" />
+    <item android:id="@+id/bajas"
+        android:icon="@android:drawable/btn_dialog"
+        yourapp:showAsAction="ifRoom"
+        android:title="Bajas" />
+
+
+
+</menu>

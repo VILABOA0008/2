@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pla">
+        <item>Mercuio</item>
+        <item>Venus</item>
+        <item>España</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>España</item>
+        <item>Pluton</item>
+
+
+    </string-array>
+
+
+</resources>

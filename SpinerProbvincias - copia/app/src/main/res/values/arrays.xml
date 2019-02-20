@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="comunidaedes">
+    <item>Galicia</item>
+    <item>Extremadura</item>
+    <item>Pais Vasco</item>
+    <item>Madrid</item>
+    </string-array>
+
+    <string-array name="progal">
+        <item>A Coruña</item>
+        <item>Lugho</item>
+        <item>Ourense</item>
+        <item>Pontevedra</item>
+        <item>Palencia</item>
+        <item>Alava</item>
+        <item>Albacete</item>
+    </string-array>
+
+    <string-array name="propai">
+        <item>Gipuzcoa</item>
+        <item>Bilbao</item>
+        <item>la otra</item>
+    </string-array>
+
+    <string-array name="proext">
+        <item>Caceres</item>
+        <item>Badajoz</item>
+    </string-array>
+    <string-array name="promad">
+        <item>Madrid</item>
+    </string-array>
+
+</resources>
